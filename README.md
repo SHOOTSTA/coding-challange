@@ -51,7 +51,7 @@ Host the website on the service of your choice (zeit, Heroku, AWS, GCloud, ...)
 - React
 - Tests: Jest + react-testing-library / enzyme
 - Code Linter
-- Use of hoocks and context API 
+- Use of hooks and context API 
 - Typescript is a plus
 - CSSinJS is a plus: styled-components, styled-system, ...
 
