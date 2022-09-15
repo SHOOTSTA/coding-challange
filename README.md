@@ -52,7 +52,7 @@ Host the website on the service of your choice (zeit, Heroku, AWS, GCloud, ...)
 - Tests: Jest + react-testing-library / enzyme
 - Code Linter
 - Use of hooks and context API 
-- Typescript is a plus
+- Typescript is a must
 - CSSinJS is a plus: styled-components, styled-system, ...
 
 ## Instructions
